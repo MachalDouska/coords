@@ -1,0 +1,5 @@
+D:\vs\coords\coords\obj\Debug\net8.0\coords.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\coords\coords\obj\Debug\net8.0\coords.AssemblyInfoInputs.cache
+D:\vs\coords\coords\obj\Debug\net8.0\coords.AssemblyInfo.cs
+D:\vs\coords\coords\obj\Debug\net8.0\coords.csproj.CoreCompileInputs.cache
+D:\vs\coords\coords\obj\Debug\net8.0\coords.sourcelink.json
